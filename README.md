@@ -1,3 +1,7 @@
+#### My Discrete Math Repository
+
+### Homework 2 - 202111120 (mister124) PARK JIN SUNG
+
 ## 2.1 Equation Editing
 
 | # | text | formula |
